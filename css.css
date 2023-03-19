@@ -1,0 +1,56 @@
+* {
+
+    color: white;
+
+    font-family: 'Rubik', sans-serif;
+
+    font-style: normal;
+
+    font-weight: 700;
+
+}
+
+    text-decoration: none;
+
+}
+
+body {
+
+    background-color: black;
+
+    width: 100vw;
+
+    height: 98vh;
+
+    position: relative;
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+    background-position: 50%;
+
+    margin: 0px;
+
+}
+
+#footer {
+
+    font-size: 21px;
+
+    position: fixed;
+
+    left: 0; bottom: 0;
+
+    padding-left: 48px;
+
+    background: rgb(198,102,254);
+
+    background: linear-gradient(225deg, #FA29AF 0%, #B395A2 80%);
+
+    color: #000;
+
+    width: 100%;
+
+}
+
